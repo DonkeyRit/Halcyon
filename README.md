@@ -6,3 +6,4 @@
 * [C++. Memory classes](https://www.bestprog.net/ru/2018/04/12/c-classes-of-memory-that-can-be-declared-when-working-with-classes-and-class-objects-keywords-register-extern-static-mutable_ru/) - __Need to read__
 * [Memory model C++ and CLR](https://habr.com/ru/company/jugru/blog/541362/) - __Need to read__
 * [Memory model C++ in examples](https://habr.com/ru/post/517918/) - __Need to read__
+* [Introduction in C++](https://metanit.com/cpp/tutorial/1.1.php) - __Need to read__
